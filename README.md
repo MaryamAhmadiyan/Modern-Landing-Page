@@ -11,8 +11,8 @@ Designed to showcase a modern web layout with a focus on usability, responsive d
 ## ✨ Features
 
 - Modern and clean user interface
-- Responsive layout for different screen sizes
-- Mobile navigation menu
+- Responsive layout for desktop, tablet, and mobile devices
+- Interactive mobile hamburger menu with open/close functionality
 - Hero section with a call-to-action button
 - Features section
 - About section
@@ -25,7 +25,7 @@ Designed to showcase a modern web layout with a focus on usability, responsive d
 
 - **HTML5** – Page structure
 - **CSS3** – Styling, layouts, and responsive design
-- **JavaScript** – Interactive navigation menu
+- **JavaScript** – Interactive mobile navigation menu
 
 ## 📁 Project Structure
 
