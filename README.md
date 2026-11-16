@@ -69,5 +69,14 @@ Front-End Developer in Progress
 - GitHub: [@MaryamAhmadiyan](https://github.com/MaryamAhmadiyan)
 
 ---
+## 📸 Screenshots
+
+### Desktop Preview
+
+![Desktop Preview](assets/desktop-preview.jpg)
+
+### Mobile Preview
+
+![Mobile Preview](assets/mobile-preview.jpg)
 
 ⭐ If you like this project, feel free to give it a star!
