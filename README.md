@@ -8,6 +8,16 @@ Designed to showcase a modern web layout with a focus on usability, responsive d
 
 **[View Live Demo](https://maryamahmadiyan.github.io/Modern-Landing-Page/)**
 
+## 📸 Screenshots
+
+### Desktop Preview
+
+![Desktop Preview](assets/Desktop-preview.jpg)
+
+### Mobile Preview
+
+![Mobile Preview](assets/mobile-preview.jpg)
+
 ## ✨ Features
 
 - Modern and clean user interface
@@ -31,6 +41,10 @@ Designed to showcase a modern web layout with a focus on usability, responsive d
 
 ```text
 Modern-Landing-Page/
+│
+├── assets/
+│   ├── Desktop-preview.jpg
+│   └── mobile-preview.jpg
 │
 ├── Css/
 │   └── Style.css
@@ -69,14 +83,5 @@ Front-End Developer in Progress
 - GitHub: [@MaryamAhmadiyan](https://github.com/MaryamAhmadiyan)
 
 ---
-## 📸 Screenshots
-
-### Desktop Preview
-
-![Desktop Preview](assets/desktop-preview.jpg)
-
-### Mobile Preview
-
-![Mobile Preview](assets/mobile-preview.jpg)
 
 ⭐ If you like this project, feel free to give it a star!
